@@ -47,7 +47,7 @@ Problem Solving, Communication, Collaboration, Mentoring
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberius8&show_icons=true&locale=en&layout=compact" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=geraldhd&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
 
 <p align="center">
