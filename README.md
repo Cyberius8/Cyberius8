@@ -47,7 +47,7 @@ Problem Solving, Communication, Collaboration, Mentoring
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-rstaa.vercel.app/api?username=Cyberius8&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberius8&show_icons=true&locale=en&layout=compact" alt="GitHub Stats">
 </p>
 
 <p align="center">
